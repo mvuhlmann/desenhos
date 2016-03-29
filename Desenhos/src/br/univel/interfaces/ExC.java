@@ -1,7 +1,7 @@
 package br.univel.interfaces;
 
 public class ExC implements Desenho {
-
+//class desenho
 	public static int ALTURA = 8;
 	
 	@Override
